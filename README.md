@@ -1,8 +1,3 @@
-
-
-
-
-
 # Java Array Length Without Using length Property
 
 ## Description
